@@ -1,0 +1,45 @@
+ros-jade-ecto-image-pipeline (0.5.4-1utopic) utopic; urgency=high
+
+  * add Eigen as a build dependency
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 19 Nov 2014 23:00:00 -0000
+
+ros-jade-ecto-image-pipeline (0.5.3-1utopic) utopic; urgency=high
+
+  * remove the PCL dependency
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 19 Nov 2014 23:00:00 -0000
+
+ros-jade-ecto-image-pipeline (0.5.2-1utopic) utopic; urgency=high
+
+  * re-add opencv_candidate as a dep as it is find_packaged
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-jade-ecto-image-pipeline (0.5.1-1utopic) utopic; urgency=high
+
+  * update dependencies
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-jade-ecto-image-pipeline (0.5.0-1utopic) utopic; urgency=high
+
+  * no need for g2o cells: g2o things should be done through the library anyway
+  * make the code compile on Indigo
+  * use the proper new camera topic
+  * use the newer catkin variable for tests
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-jade-ecto-image-pipeline (0.4.13-1utopic) utopic; urgency=high
+
+  * fix dependencies with PCL
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 28 Aug 2013 20:03:21 +0200
+
+
